@@ -1,0 +1,778 @@
+{
+  "Description": "Lesson One. Set of new words.",
+  "dataItems": [
+    {
+      "lang": "en",
+      "phrase": "humble",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "скромный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "скро́мный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "смиренный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "поко́рный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "ро́бкий",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "робкий",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "смире́нный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "бедный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "безответный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "безропотный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "бессловесный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "засте́нчивый",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "застенчивый",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "небольшой",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "непритязательный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "покорный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "приниженный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "простой",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "сде́ржанный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "сдержанный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "скро́мность",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "скромность",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "смирить",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "смирять",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "умеренный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "унижать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "унизить",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "drastic",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "глубокий",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "интенсивный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "радикальный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "резкий",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "решительный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "невероятный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "сильнодействующий",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "энергичный",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "amiss",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "неладно",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "не так",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "дурно",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "неверно",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "неверный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "некстати",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "неподходящий",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "неправильно",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "неправильный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "несвоевременный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "неуместный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "нехороший",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "ошибочно",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "плохо",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "плохой",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "deceiver",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "обманщик",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "обманщица",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "жулик",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "мошенник",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "плут",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "пройдоха",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "chime",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "звонок",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "колокольчик",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "звон",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "звонить",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "колокольчики",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "молоток",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "соответствовать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "звенеть",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "бить",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "гармония",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "колокола",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "куранты",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "музыка",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "пробить",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "согласие",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "созвучие",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "утор",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "grief",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "горе",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "печаль",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "скорбь",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "грусть",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "апатия",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "беда",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "бедствие",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "бо́ль",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "боль",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "горесть",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "несчастье",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "огорчение",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "печа́ль",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "по́рча",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "поврежде́ние",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "повреждение",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "порча",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "сожаление",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "страда́ние",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "страдание",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "тоска",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "тоска́",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "траур",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "hinder",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "мешать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "помешать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "воспрепятствовать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "препятствовать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "задний",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "задница",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "быть помехой",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "задерживать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "замедлять",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "затормозить",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "затруднительный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "затруднять",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "мешающий",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "стеснять",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "тормозить",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "somatic",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "соматический",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "телесный",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "физический",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "ortolan",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "садовая овсянка",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "боболинк",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "рисовый трупиал",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "iridescent",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "переливчатый",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "радужный",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "strafe",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "атака",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "атаковать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "выговор",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "наказание",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "наказывать",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "ураганный огонь",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "demerit",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "недостаток",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "выговор",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "изъян",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "взыскание",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "дефект",
+          "variants": null
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "phrase": "penury",
+      "variants": [
+        {
+          "lang": "ru",
+          "phrase": "нищета",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "нужда",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "недостаток",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "бедность",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "беднота",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "крайняя бедность",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "нищеты",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "отсутствие",
+          "variants": null
+        },
+        {
+          "lang": "ru",
+          "phrase": "скудость",
+          "variants": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "memo.cards.framework",
+      "sha256_cert_fingerprints": [
+        "41:03:1D:2A:03:A6:F0:C3:74:7D:06:76:8C:FD:86:7A:0F:3A:98:6A:ED:F6:03:F3:12:59:69:72:31:21:DB:D0"
+      ]
+    }
+  }
+]

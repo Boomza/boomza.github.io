@@ -1,0 +1,35 @@
+{
+  "Geography": {
+    "Description": "Geography knowledge can help us understand the diversity and interconnection of the world's regions, cultures, and resources. Some aspects of geography knowledge include: <ul><li>Capitals</li><li>Locations</li><li>Flags</li></ul>",
+    "Prefix": "/json/geography",
+    "Decks": [
+      {
+        "DeckID": "dfccacb3-abf6-4858-8508-bcf30d77ba51",
+        "Title": "Capitals",
+        "Description": "This stack is dedicated to capitals of the countries around the world.",
+        "File": "/capitals-short.json",
+        "Image": "/img/capitals.png"
+      }
+    ]
+  },
+  "Language": {
+    "Description": "One of the benefits of studying a foreign language is that it can help you expand your vocabulary. By learning new words and expressions in another language, you can also improve your understanding of your own language and how it works. Additionally, having a rich vocabulary can help you communicate more effectively and confidently with native speakers and other learners of the language. A larger vocabulary can also enhance your reading comprehension and writing skills in both languages.",
+    "Prefix": "/json/words",
+    "Decks": [
+      {
+        "Title": "Numbers (EN)",
+        "DeckID": "db78b327-0568-45df-80e8-2fd4f13714bd",
+        "Description": "The stack to memorize numbers in English Language.",
+        "File": "/numbers.json",
+        "Image": "/img/numbers.png"
+      },
+      {
+        "Title": "Rare Words (EN)",
+        "DeckID": "9167ba45-9621-43dd-b215-f5134f44053e",
+        "Description": "The stack to rare used English words.",
+        "File": "/rare.json",
+        "Image": "/img/rare.png"
+      }
+    ]
+  }
+}

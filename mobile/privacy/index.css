@@ -1,9 +1,0 @@
-body,
-html {
-  height: 100%;
-  margin: 12;
-  transition: background-color 9s;
-  -webkit-user-select: none;
-  user-select: none;
-  font-family: monospace;
-}

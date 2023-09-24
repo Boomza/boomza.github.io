@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.75dfd0f1.css","mappings":"AAAA,UAIE,WAAY,CACZ,QAAW,CACX,8BAA+B,CAJ/B,wBAAyB,CACzB,gBAIF","sources":["index.css"],"sourcesContent":["html,\r\nbody {\r\n  -webkit-user-select: none;\r\n  user-select: none;\r\n  height: 100%;\r\n  margin: 0px;\r\n  transition: background-color 9s;\r\n}\r\n"],"names":[],"sourceRoot":""}

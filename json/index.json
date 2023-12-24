@@ -17,6 +17,13 @@
     "Prefix": "/json/words",
     "Decks": [
       {
+        "Title": "Vocabulary (RU)",
+        "DeckID": "c7b795aa-5470-4963-83f0-8be34c4d2d80",
+        "Description": "The stack to memorize numbers in English Language.",
+        "File": "/numbers.json",
+        "Image": "/img/numbers.png"
+      },
+      {
         "Title": "Numbers (EN)",
         "DeckID": "db78b327-0568-45df-80e8-2fd4f13714bd",
         "Description": "The stack to memorize numbers in English Language.",

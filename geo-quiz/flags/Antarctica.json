@@ -1,0 +1,34 @@
+{
+  "Title": "Country Flags for Antarctica",
+  "DeckID": "db17d7fb-5429-4d89-a384-0f216caf8557",
+  "Description": "The set of countries with official flags. Antarctica continent.",
+  "FromType": "TEXT",
+  "ToType": "IMAGE",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Antarctica",
+      "to": "/img/aq.png"
+    },
+    {
+      "id": 1,
+      "from": "Bouvet Island",
+      "to": "/img/bv.png"
+    },
+    {
+      "id": 2,
+      "from": "French Southern territories",
+      "to": "/img/tf.png"
+    },
+    {
+      "id": 3,
+      "from": "Heard Island and McDonald Islands",
+      "to": "/img/hm.png"
+    },
+    {
+      "id": 4,
+      "from": "South Georgia and the South Sandwich Islands",
+      "to": "/img/gs.png"
+    }
+  ]
+}

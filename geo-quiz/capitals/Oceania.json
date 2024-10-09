@@ -1,0 +1,149 @@
+{
+  "Title": "Country Capitals for Oceania",
+  "DeckID": "5cb8727f-bc8a-4669-af71-ef58ec2a0463",
+  "Description": "The set of countries with official capitals. Oceania continent.",
+  "FromType": "TEXT",
+  "ToType": "TEXT",
+  "Items": [
+    {
+      "id": 0,
+      "from": "American Samoa",
+      "to": "Fagatogo"
+    },
+    {
+      "id": 1,
+      "from": "Australia",
+      "to": "Canberra"
+    },
+    {
+      "id": 2,
+      "from": "Christmas Island",
+      "to": "Flying Fish Cove"
+    },
+    {
+      "id": 3,
+      "from": "Cocos (Keeling) Islands",
+      "to": "West Island"
+    },
+    {
+      "id": 4,
+      "from": "Cook Islands",
+      "to": "Avarua"
+    },
+    {
+      "id": 5,
+      "from": "Fiji Islands",
+      "to": "Suva"
+    },
+    {
+      "id": 6,
+      "from": "French Polynesia",
+      "to": "Papeete"
+    },
+    {
+      "id": 7,
+      "from": "Guam",
+      "to": "Aga"
+    },
+    {
+      "id": 8,
+      "from": "Kiribati",
+      "to": "Bairiki"
+    },
+    {
+      "id": 9,
+      "from": "Marshall Islands",
+      "to": "Dalap-Uliga-Darrit"
+    },
+    {
+      "id": 10,
+      "from": "Micronesia, Federated States of",
+      "to": "Palikir"
+    },
+    {
+      "id": 11,
+      "from": "Nauru",
+      "to": "Yaren"
+    },
+    {
+      "id": 12,
+      "from": "New Caledonia",
+      "to": "Noum"
+    },
+    {
+      "id": 13,
+      "from": "New Zealand",
+      "to": "Wellington"
+    },
+    {
+      "id": 14,
+      "from": "Niue",
+      "to": "Alofi"
+    },
+    {
+      "id": 15,
+      "from": "Norfolk Island",
+      "to": "Kingston"
+    },
+    {
+      "id": 16,
+      "from": "Northern Mariana Islands",
+      "to": "Garapan"
+    },
+    {
+      "id": 17,
+      "from": "Palau",
+      "to": "Koror"
+    },
+    {
+      "id": 18,
+      "from": "Papua New Guinea",
+      "to": "Port Moresby"
+    },
+    {
+      "id": 19,
+      "from": "Pitcairn",
+      "to": "Adamstown"
+    },
+    {
+      "id": 20,
+      "from": "Samoa",
+      "to": "Apia"
+    },
+    {
+      "id": 21,
+      "from": "Solomon Islands",
+      "to": "Honiara"
+    },
+    {
+      "id": 22,
+      "from": "Tokelau",
+      "to": "Fakaofo"
+    },
+    {
+      "id": 23,
+      "from": "Tonga",
+      "to": "Nuku'alofa"
+    },
+    {
+      "id": 24,
+      "from": "Tuvalu",
+      "to": "Funafuti"
+    },
+    {
+      "id": 25,
+      "from": "United States Minor Outlying Islands",
+      "to": ""
+    },
+    {
+      "id": 26,
+      "from": "Vanuatu",
+      "to": "Port-Vila"
+    },
+    {
+      "id": 27,
+      "from": "Wallis and Futuna",
+      "to": "Mata-Utu"
+    }
+  ]
+}

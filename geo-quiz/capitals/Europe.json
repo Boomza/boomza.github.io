@@ -1,0 +1,264 @@
+{
+  "Title": "Country Capitals for Europe",
+  "DeckID": "2a1c643a-81ec-4ba2-a13b-b12e5c54259d",
+  "Description": "The set of countries with official capitals. Europe continent.",
+  "FromType": "TEXT",
+  "ToType": "TEXT",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Albania",
+      "to": "Tirana"
+    },
+    {
+      "id": 1,
+      "from": "Andorra",
+      "to": "Andorra la Vella"
+    },
+    {
+      "id": 2,
+      "from": "Austria",
+      "to": "Wien"
+    },
+    {
+      "id": 3,
+      "from": "Belarus",
+      "to": "Minsk"
+    },
+    {
+      "id": 4,
+      "from": "Belgium",
+      "to": "Bruxelles [Brussel]"
+    },
+    {
+      "id": 5,
+      "from": "Bosnia and Herzegovina",
+      "to": "Sarajevo"
+    },
+    {
+      "id": 6,
+      "from": "Bulgaria",
+      "to": "Sofia"
+    },
+    {
+      "id": 7,
+      "from": "Croatia",
+      "to": "Zagreb"
+    },
+    {
+      "id": 8,
+      "from": "Czech Republic",
+      "to": "Praha"
+    },
+    {
+      "id": 9,
+      "from": "Denmark",
+      "to": "Copenhagen"
+    },
+    {
+      "id": 10,
+      "from": "England",
+      "to": "London"
+    },
+    {
+      "id": 11,
+      "from": "Estonia",
+      "to": "Tallinn"
+    },
+    {
+      "id": 12,
+      "from": "Faroe Islands",
+      "to": "Tórshavn"
+    },
+    {
+      "id": 13,
+      "from": "Finland",
+      "to": "Helsinki [Helsingfors]"
+    },
+    {
+      "id": 14,
+      "from": "France",
+      "to": "Paris"
+    },
+    {
+      "id": 15,
+      "from": "Germany",
+      "to": "Berlin"
+    },
+    {
+      "id": 16,
+      "from": "Gibraltar",
+      "to": "Gibraltar"
+    },
+    {
+      "id": 17,
+      "from": "Greece",
+      "to": "Athenai"
+    },
+    {
+      "id": 18,
+      "from": "Holy See (Vatican City State)",
+      "to": "Citt"
+    },
+    {
+      "id": 19,
+      "from": "Hungary",
+      "to": "Budapest"
+    },
+    {
+      "id": 20,
+      "from": "Iceland",
+      "to": "Reykjavík"
+    },
+    {
+      "id": 21,
+      "from": "Ireland",
+      "to": "Dublin"
+    },
+    {
+      "id": 22,
+      "from": "Italy",
+      "to": "Roma"
+    },
+    {
+      "id": 23,
+      "from": "Latvia",
+      "to": "Riga"
+    },
+    {
+      "id": 24,
+      "from": "Liechtenstein",
+      "to": "Vaduz"
+    },
+    {
+      "id": 25,
+      "from": "Lithuania",
+      "to": "Vilnius"
+    },
+    {
+      "id": 26,
+      "from": "Luxembourg",
+      "to": "Luxembourg [Luxemburg/L"
+    },
+    {
+      "id": 27,
+      "from": "North Macedonia",
+      "to": "Skopje"
+    },
+    {
+      "id": 28,
+      "from": "Malta",
+      "to": "Valletta"
+    },
+    {
+      "id": 29,
+      "from": "Moldova",
+      "to": "Chisinau"
+    },
+    {
+      "id": 30,
+      "from": "Monaco",
+      "to": "Monaco-Ville"
+    },
+    {
+      "id": 31,
+      "from": "Montenegro",
+      "to": "Podgorica"
+    },
+    {
+      "id": 32,
+      "from": "Netherlands",
+      "to": "Amsterdam"
+    },
+    {
+      "id": 33,
+      "from": "Northern Ireland",
+      "to": "Belfast"
+    },
+    {
+      "id": 34,
+      "from": "Norway",
+      "to": "Oslo"
+    },
+    {
+      "id": 35,
+      "from": "Poland",
+      "to": "Warszawa"
+    },
+    {
+      "id": 36,
+      "from": "Portugal",
+      "to": "Lisboa"
+    },
+    {
+      "id": 37,
+      "from": "Romania",
+      "to": "Bucuresti"
+    },
+    {
+      "id": 38,
+      "from": "Russia",
+      "to": "Moscow"
+    },
+    {
+      "id": 39,
+      "from": "San Marino",
+      "to": "San Marino"
+    },
+    {
+      "id": 40,
+      "from": "Scotland",
+      "to": "Edinburgh"
+    },
+    {
+      "id": 41,
+      "from": "Serbia",
+      "to": "Belgrade"
+    },
+    {
+      "id": 42,
+      "from": "Slovakia",
+      "to": "Bratislava"
+    },
+    {
+      "id": 43,
+      "from": "Slovenia",
+      "to": "Ljubljana"
+    },
+    {
+      "id": 44,
+      "from": "Spain",
+      "to": "Madrid"
+    },
+    {
+      "id": 45,
+      "from": "Svalbard and Jan Mayen",
+      "to": "Longyearbyen"
+    },
+    {
+      "id": 46,
+      "from": "Sweden",
+      "to": "Stockholm"
+    },
+    {
+      "id": 47,
+      "from": "Switzerland",
+      "to": "Bern"
+    },
+    {
+      "id": 48,
+      "from": "Ukraine",
+      "to": "Kyiv"
+    },
+    {
+      "id": 49,
+      "from": "United Kingdom",
+      "to": "London"
+    },
+    {
+      "id": 50,
+      "from": "Wales",
+      "to": "Cardiff"
+    }
+  ]
+}

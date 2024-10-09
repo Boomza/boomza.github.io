@@ -1,0 +1,304 @@
+{
+  "Title": "Country Capitals for Africa",
+  "DeckID": "b8079738-184c-4da8-ac8d-822060857777",
+  "Description": "The set of countries with official capitals. Africa continent.",
+  "FromType": "TEXT",
+  "ToType": "TEXT",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Algeria",
+      "to": "Alger"
+    },
+    {
+      "id": 1,
+      "from": "Angola",
+      "to": "Luanda"
+    },
+    {
+      "id": 2,
+      "from": "Benin",
+      "to": "Porto-Novo"
+    },
+    {
+      "id": 3,
+      "from": "Botswana",
+      "to": "Gaborone"
+    },
+    {
+      "id": 4,
+      "from": "British Indian Ocean Territory",
+      "to": ""
+    },
+    {
+      "id": 5,
+      "from": "Burkina Faso",
+      "to": "Ouagadougou"
+    },
+    {
+      "id": 6,
+      "from": "Burundi",
+      "to": "Bujumbura"
+    },
+    {
+      "id": 7,
+      "from": "Cameroon",
+      "to": "Yaounde"
+    },
+    {
+      "id": 8,
+      "from": "Cape Verde",
+      "to": "Praia"
+    },
+    {
+      "id": 9,
+      "from": "Central African Republic",
+      "to": "Bangui"
+    },
+    {
+      "id": 10,
+      "from": "Chad",
+      "to": "N'Djamena"
+    },
+    {
+      "id": 11,
+      "from": "Comoros",
+      "to": "Moroni"
+    },
+    {
+      "id": 12,
+      "from": "Congo",
+      "to": "Brazzaville"
+    },
+    {
+      "id": 13,
+      "from": "Djibouti",
+      "to": "Djibouti"
+    },
+    {
+      "id": 14,
+      "from": "Egypt",
+      "to": "Cairo"
+    },
+    {
+      "id": 15,
+      "from": "Equatorial Guinea",
+      "to": "Malabo"
+    },
+    {
+      "id": 16,
+      "from": "Eritrea",
+      "to": "Asmara"
+    },
+    {
+      "id": 17,
+      "from": "Eswatini",
+      "to": "Mbabane"
+    },
+    {
+      "id": 18,
+      "from": "Ethiopia",
+      "to": "Addis Abeba"
+    },
+    {
+      "id": 19,
+      "from": "Gabon",
+      "to": "Libreville"
+    },
+    {
+      "id": 20,
+      "from": "Gambia",
+      "to": "Banjul"
+    },
+    {
+      "id": 21,
+      "from": "Ghana",
+      "to": "Accra"
+    },
+    {
+      "id": 22,
+      "from": "Guinea",
+      "to": "Conakry"
+    },
+    {
+      "id": 23,
+      "from": "Guinea-Bissau",
+      "to": "Bissau"
+    },
+    {
+      "id": 24,
+      "from": "Ivory Coast",
+      "to": "Yamoussoukro"
+    },
+    {
+      "id": 25,
+      "from": "Kenya",
+      "to": "Nairobi"
+    },
+    {
+      "id": 26,
+      "from": "Lesotho",
+      "to": "Maseru"
+    },
+    {
+      "id": 27,
+      "from": "Liberia",
+      "to": "Monrovia"
+    },
+    {
+      "id": 28,
+      "from": "Libya",
+      "to": "Tripoli"
+    },
+    {
+      "id": 29,
+      "from": "Madagascar",
+      "to": "Antananarivo"
+    },
+    {
+      "id": 30,
+      "from": "Malawi",
+      "to": "Lilongwe"
+    },
+    {
+      "id": 31,
+      "from": "Mali",
+      "to": "Bamako"
+    },
+    {
+      "id": 32,
+      "from": "Mauritania",
+      "to": "Nouakchott"
+    },
+    {
+      "id": 33,
+      "from": "Mauritius",
+      "to": "Port-Louis"
+    },
+    {
+      "id": 34,
+      "from": "Mayotte",
+      "to": "Mamoutzou"
+    },
+    {
+      "id": 35,
+      "from": "Morocco",
+      "to": "Rabat"
+    },
+    {
+      "id": 36,
+      "from": "Mozambique",
+      "to": "Maputo"
+    },
+    {
+      "id": 37,
+      "from": "Namibia",
+      "to": "Windhoek"
+    },
+    {
+      "id": 38,
+      "from": "Niger",
+      "to": "Niamey"
+    },
+    {
+      "id": 39,
+      "from": "Nigeria",
+      "to": "Abuja"
+    },
+    {
+      "id": 40,
+      "from": "Reunion",
+      "to": "Saint-Denis"
+    },
+    {
+      "id": 41,
+      "from": "Rwanda",
+      "to": "Kigali"
+    },
+    {
+      "id": 42,
+      "from": "Saint Helena",
+      "to": "Jamestown"
+    },
+    {
+      "id": 43,
+      "from": "Sao Tome and Principe",
+      "to": "São Tomé"
+    },
+    {
+      "id": 44,
+      "from": "Senegal",
+      "to": "Dakar"
+    },
+    {
+      "id": 45,
+      "from": "Seychelles",
+      "to": "Victoria"
+    },
+    {
+      "id": 46,
+      "from": "Sierra Leone",
+      "to": "Freetown"
+    },
+    {
+      "id": 47,
+      "from": "Somalia",
+      "to": "Mogadishu"
+    },
+    {
+      "id": 48,
+      "from": "South Africa",
+      "to": "Pretoria"
+    },
+    {
+      "id": 49,
+      "from": "South Sudan",
+      "to": "Juba"
+    },
+    {
+      "id": 50,
+      "from": "Sudan",
+      "to": "Khartum"
+    },
+    {
+      "id": 51,
+      "from": "Tanzania",
+      "to": "Dodoma"
+    },
+    {
+      "id": 52,
+      "from": "The Democratic Republic of Congo",
+      "to": "Kinshasa"
+    },
+    {
+      "id": 53,
+      "from": "Togo",
+      "to": "Lomé"
+    },
+    {
+      "id": 54,
+      "from": "Tunisia",
+      "to": "Tunis"
+    },
+    {
+      "id": 55,
+      "from": "Uganda",
+      "to": "Kampala"
+    },
+    {
+      "id": 56,
+      "from": "Western Sahara",
+      "to": "El-Aai"
+    },
+    {
+      "id": 57,
+      "from": "Zambia",
+      "to": "Lusaka"
+    },
+    {
+      "id": 58,
+      "from": "Zimbabwe",
+      "to": "Harare"
+    }
+  ]
+}

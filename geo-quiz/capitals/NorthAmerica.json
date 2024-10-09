@@ -1,0 +1,194 @@
+{
+  "Title": "Country Capitals for North America",
+  "DeckID": "14a432d7-a2cb-4e96-a5e8-62f97162d67c",
+  "Description": "The set of countries with official capitals. North America continent.",
+  "FromType": "TEXT",
+  "ToType": "TEXT",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Anguilla",
+      "to": "The Valley"
+    },
+    {
+      "id": 1,
+      "from": "Antigua and Barbuda",
+      "to": "Saint John's"
+    },
+    {
+      "id": 2,
+      "from": "Aruba",
+      "to": "Oranjestad"
+    },
+    {
+      "id": 3,
+      "from": "Bahamas",
+      "to": "Nassau"
+    },
+    {
+      "id": 4,
+      "from": "Barbados",
+      "to": "Bridgetown"
+    },
+    {
+      "id": 5,
+      "from": "Belize",
+      "to": "Belmopan"
+    },
+    {
+      "id": 6,
+      "from": "Bermuda",
+      "to": "Hamilton"
+    },
+    {
+      "id": 7,
+      "from": "Canada",
+      "to": "Ottawa"
+    },
+    {
+      "id": 8,
+      "from": "Cayman Islands",
+      "to": "George Town"
+    },
+    {
+      "id": 9,
+      "from": "Costa Rica",
+      "to": "San José"
+    },
+    {
+      "id": 10,
+      "from": "Cuba",
+      "to": "La Habana"
+    },
+    {
+      "id": 11,
+      "from": "Dominica",
+      "to": "Roseau"
+    },
+    {
+      "id": 12,
+      "from": "Dominican Republic",
+      "to": "Santo Domingo de Guzm"
+    },
+    {
+      "id": 13,
+      "from": "El Salvador",
+      "to": "San Salvador"
+    },
+    {
+      "id": 14,
+      "from": "Greenland",
+      "to": "Nuuk"
+    },
+    {
+      "id": 15,
+      "from": "Grenada",
+      "to": "Saint George's"
+    },
+    {
+      "id": 16,
+      "from": "Guadeloupe",
+      "to": "Basse-Terre"
+    },
+    {
+      "id": 17,
+      "from": "Guatemala",
+      "to": "Ciudad de Guatemala"
+    },
+    {
+      "id": 18,
+      "from": "Haiti",
+      "to": "Port-au-Prince"
+    },
+    {
+      "id": 19,
+      "from": "Honduras",
+      "to": "Tegucigalpa"
+    },
+    {
+      "id": 20,
+      "from": "Jamaica",
+      "to": "Kingston"
+    },
+    {
+      "id": 21,
+      "from": "Martinique",
+      "to": "Fort-de-France"
+    },
+    {
+      "id": 22,
+      "from": "Mexico",
+      "to": "Ciudad de M"
+    },
+    {
+      "id": 23,
+      "from": "Montserrat",
+      "to": "Plymouth"
+    },
+    {
+      "id": 24,
+      "from": "Netherlands Antilles",
+      "to": "Willemstad"
+    },
+    {
+      "id": 25,
+      "from": "Nicaragua",
+      "to": "Managua"
+    },
+    {
+      "id": 26,
+      "from": "Panama",
+      "to": "Ciudad de Panamá"
+    },
+    {
+      "id": 27,
+      "from": "Puerto Rico",
+      "to": "San Juan"
+    },
+    {
+      "id": 28,
+      "from": "Saint Kitts and Nevis",
+      "to": "Basseterre"
+    },
+    {
+      "id": 29,
+      "from": "Saint Lucia",
+      "to": "Castries"
+    },
+    {
+      "id": 30,
+      "from": "Saint Pierre and Miquelon",
+      "to": "Saint-Pierre"
+    },
+    {
+      "id": 31,
+      "from": "Saint Vincent and the Grenadines",
+      "to": "Kingstown"
+    },
+    {
+      "id": 32,
+      "from": "Trinidad and Tobago",
+      "to": "Port-of-Spain"
+    },
+    {
+      "id": 33,
+      "from": "Turks and Caicos Islands",
+      "to": "Cockburn Town"
+    },
+    {
+      "id": 34,
+      "from": "United States",
+      "to": "Washington"
+    },
+    {
+      "id": 35,
+      "from": "Virgin Islands, British",
+      "to": "Road Town"
+    },
+    {
+      "id": 36,
+      "from": "Virgin Islands, U.S.",
+      "to": "Charlotte Amalie"
+    }
+  ]
+}

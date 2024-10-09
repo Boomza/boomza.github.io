@@ -1,0 +1,79 @@
+{
+  "Title": "Country Flags for South America",
+  "DeckID": "99cefc4b-7ade-412d-b787-9baae68a6819",
+  "Description": "The set of countries with official flags. South America continent.",
+  "FromType": "TEXT",
+  "ToType": "IMAGE",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Argentina",
+      "to": "/img/ar.png"
+    },
+    {
+      "id": 1,
+      "from": "Bolivia",
+      "to": "/img/bo.png"
+    },
+    {
+      "id": 2,
+      "from": "Brazil",
+      "to": "/img/br.png"
+    },
+    {
+      "id": 3,
+      "from": "Chile",
+      "to": "/img/cl.png"
+    },
+    {
+      "id": 4,
+      "from": "Colombia",
+      "to": "/img/co.png"
+    },
+    {
+      "id": 5,
+      "from": "Ecuador",
+      "to": "/img/ec.png"
+    },
+    {
+      "id": 6,
+      "from": "Falkland Islands",
+      "to": "/img/fk.png"
+    },
+    {
+      "id": 7,
+      "from": "French Guiana",
+      "to": "/img/gf.png"
+    },
+    {
+      "id": 8,
+      "from": "Guyana",
+      "to": "/img/gy.png"
+    },
+    {
+      "id": 9,
+      "from": "Paraguay",
+      "to": "/img/py.png"
+    },
+    {
+      "id": 10,
+      "from": "Peru",
+      "to": "/img/pe.png"
+    },
+    {
+      "id": 11,
+      "from": "Suriname",
+      "to": "/img/sr.png"
+    },
+    {
+      "id": 12,
+      "from": "Uruguay",
+      "to": "/img/uy.png"
+    },
+    {
+      "id": 13,
+      "from": "Venezuela",
+      "to": "/img/ve.png"
+    }
+  ]
+}

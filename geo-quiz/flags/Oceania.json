@@ -1,0 +1,149 @@
+{
+  "Title": "Country Flags for Oceania",
+  "DeckID": "46c71b8a-e993-4431-82e4-813464132c10",
+  "Description": "The set of countries with official flags. Oceania continent.",
+  "FromType": "TEXT",
+  "ToType": "IMAGE",
+  "Items": [
+    {
+      "id": 0,
+      "from": "American Samoa",
+      "to": "/img/as.png"
+    },
+    {
+      "id": 1,
+      "from": "Australia",
+      "to": "/img/au.png"
+    },
+    {
+      "id": 2,
+      "from": "Christmas Island",
+      "to": "/img/cx.png"
+    },
+    {
+      "id": 3,
+      "from": "Cocos (Keeling) Islands",
+      "to": "/img/cc.png"
+    },
+    {
+      "id": 4,
+      "from": "Cook Islands",
+      "to": "/img/ck.png"
+    },
+    {
+      "id": 5,
+      "from": "Fiji Islands",
+      "to": "/img/fj.png"
+    },
+    {
+      "id": 6,
+      "from": "French Polynesia",
+      "to": "/img/pf.png"
+    },
+    {
+      "id": 7,
+      "from": "Guam",
+      "to": "/img/gu.png"
+    },
+    {
+      "id": 8,
+      "from": "Kiribati",
+      "to": "/img/ki.png"
+    },
+    {
+      "id": 9,
+      "from": "Marshall Islands",
+      "to": "/img/mh.png"
+    },
+    {
+      "id": 10,
+      "from": "Micronesia, Federated States of",
+      "to": "/img/fm.png"
+    },
+    {
+      "id": 11,
+      "from": "Nauru",
+      "to": "/img/nr.png"
+    },
+    {
+      "id": 12,
+      "from": "New Caledonia",
+      "to": "/img/nc.png"
+    },
+    {
+      "id": 13,
+      "from": "New Zealand",
+      "to": "/img/nz.png"
+    },
+    {
+      "id": 14,
+      "from": "Niue",
+      "to": "/img/nu.png"
+    },
+    {
+      "id": 15,
+      "from": "Norfolk Island",
+      "to": "/img/nf.png"
+    },
+    {
+      "id": 16,
+      "from": "Northern Mariana Islands",
+      "to": "/img/mp.png"
+    },
+    {
+      "id": 17,
+      "from": "Palau",
+      "to": "/img/pw.png"
+    },
+    {
+      "id": 18,
+      "from": "Papua New Guinea",
+      "to": "/img/pg.png"
+    },
+    {
+      "id": 19,
+      "from": "Pitcairn",
+      "to": "/img/pn.png"
+    },
+    {
+      "id": 20,
+      "from": "Samoa",
+      "to": "/img/ws.png"
+    },
+    {
+      "id": 21,
+      "from": "Solomon Islands",
+      "to": "/img/sb.png"
+    },
+    {
+      "id": 22,
+      "from": "Tokelau",
+      "to": "/img/tk.png"
+    },
+    {
+      "id": 23,
+      "from": "Tonga",
+      "to": "/img/to.png"
+    },
+    {
+      "id": 24,
+      "from": "Tuvalu",
+      "to": "/img/tv.png"
+    },
+    {
+      "id": 25,
+      "from": "United States Minor Outlying Islands",
+      "to": "/img/um.png"
+    },
+    {
+      "id": 26,
+      "from": "Vanuatu",
+      "to": "/img/vu.png"
+    },
+    {
+      "id": 27,
+      "from": "Wallis and Futuna",
+      "to": "/img/wf.png"
+    }
+  ]
+}

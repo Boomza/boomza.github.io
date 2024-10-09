@@ -1,0 +1,194 @@
+{
+  "Title": "Country Flags for North America",
+  "DeckID": "325eb03f-6840-47d2-9010-f305ddbaa6d0",
+  "Description": "The set of countries with official flags. North America continent.",
+  "FromType": "TEXT",
+  "ToType": "IMAGE",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Anguilla",
+      "to": "/img/ai.png"
+    },
+    {
+      "id": 1,
+      "from": "Antigua and Barbuda",
+      "to": "/img/ag.png"
+    },
+    {
+      "id": 2,
+      "from": "Aruba",
+      "to": "/img/aw.png"
+    },
+    {
+      "id": 3,
+      "from": "Bahamas",
+      "to": "/img/bs.png"
+    },
+    {
+      "id": 4,
+      "from": "Barbados",
+      "to": "/img/bb.png"
+    },
+    {
+      "id": 5,
+      "from": "Belize",
+      "to": "/img/bz.png"
+    },
+    {
+      "id": 6,
+      "from": "Bermuda",
+      "to": "/img/bm.png"
+    },
+    {
+      "id": 7,
+      "from": "Canada",
+      "to": "/img/ca.png"
+    },
+    {
+      "id": 8,
+      "from": "Cayman Islands",
+      "to": "/img/ky.png"
+    },
+    {
+      "id": 9,
+      "from": "Costa Rica",
+      "to": "/img/cr.png"
+    },
+    {
+      "id": 10,
+      "from": "Cuba",
+      "to": "/img/cu.png"
+    },
+    {
+      "id": 11,
+      "from": "Dominica",
+      "to": "/img/dm.png"
+    },
+    {
+      "id": 12,
+      "from": "Dominican Republic",
+      "to": "/img/do.png"
+    },
+    {
+      "id": 13,
+      "from": "El Salvador",
+      "to": "/img/sv.png"
+    },
+    {
+      "id": 14,
+      "from": "Greenland",
+      "to": "/img/gl.png"
+    },
+    {
+      "id": 15,
+      "from": "Grenada",
+      "to": "/img/gd.png"
+    },
+    {
+      "id": 16,
+      "from": "Guadeloupe",
+      "to": "/img/gp.png"
+    },
+    {
+      "id": 17,
+      "from": "Guatemala",
+      "to": "/img/gt.png"
+    },
+    {
+      "id": 18,
+      "from": "Haiti",
+      "to": "/img/ht.png"
+    },
+    {
+      "id": 19,
+      "from": "Honduras",
+      "to": "/img/hn.png"
+    },
+    {
+      "id": 20,
+      "from": "Jamaica",
+      "to": "/img/jm.png"
+    },
+    {
+      "id": 21,
+      "from": "Martinique",
+      "to": "/img/mq.png"
+    },
+    {
+      "id": 22,
+      "from": "Mexico",
+      "to": "/img/mx.png"
+    },
+    {
+      "id": 23,
+      "from": "Montserrat",
+      "to": "/img/ms.png"
+    },
+    {
+      "id": 24,
+      "from": "Netherlands Antilles",
+      "to": "/img/an.png"
+    },
+    {
+      "id": 25,
+      "from": "Nicaragua",
+      "to": "/img/ni.png"
+    },
+    {
+      "id": 26,
+      "from": "Panama",
+      "to": "/img/pa.png"
+    },
+    {
+      "id": 27,
+      "from": "Puerto Rico",
+      "to": "/img/pr.png"
+    },
+    {
+      "id": 28,
+      "from": "Saint Kitts and Nevis",
+      "to": "/img/kn.png"
+    },
+    {
+      "id": 29,
+      "from": "Saint Lucia",
+      "to": "/img/lc.png"
+    },
+    {
+      "id": 30,
+      "from": "Saint Pierre and Miquelon",
+      "to": "/img/pm.png"
+    },
+    {
+      "id": 31,
+      "from": "Saint Vincent and the Grenadines",
+      "to": "/img/vc.png"
+    },
+    {
+      "id": 32,
+      "from": "Trinidad and Tobago",
+      "to": "/img/tt.png"
+    },
+    {
+      "id": 33,
+      "from": "Turks and Caicos Islands",
+      "to": "/img/tc.png"
+    },
+    {
+      "id": 34,
+      "from": "United States",
+      "to": "/img/us.png"
+    },
+    {
+      "id": 35,
+      "from": "Virgin Islands, British",
+      "to": "/img/vg.png"
+    },
+    {
+      "id": 36,
+      "from": "Virgin Islands, U.S.",
+      "to": "/img/vi.png"
+    }
+  ]
+}

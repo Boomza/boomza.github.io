@@ -1,0 +1,304 @@
+{
+  "Title": "Country Flags for Africa",
+  "DeckID": "d63d53a1-0197-430b-b692-7d616542c5ac",
+  "Description": "The set of countries with official flags. Africa continent.",
+  "FromType": "TEXT",
+  "ToType": "IMAGE",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Algeria",
+      "to": "/img/dz.png"
+    },
+    {
+      "id": 1,
+      "from": "Angola",
+      "to": "/img/ao.png"
+    },
+    {
+      "id": 2,
+      "from": "Benin",
+      "to": "/img/bj.png"
+    },
+    {
+      "id": 3,
+      "from": "Botswana",
+      "to": "/img/bw.png"
+    },
+    {
+      "id": 4,
+      "from": "British Indian Ocean Territory",
+      "to": "/img/io.png"
+    },
+    {
+      "id": 5,
+      "from": "Burkina Faso",
+      "to": "/img/bf.png"
+    },
+    {
+      "id": 6,
+      "from": "Burundi",
+      "to": "/img/bi.png"
+    },
+    {
+      "id": 7,
+      "from": "Cameroon",
+      "to": "/img/cm.png"
+    },
+    {
+      "id": 8,
+      "from": "Cape Verde",
+      "to": "/img/cv.png"
+    },
+    {
+      "id": 9,
+      "from": "Central African Republic",
+      "to": "/img/cf.png"
+    },
+    {
+      "id": 10,
+      "from": "Chad",
+      "to": "/img/td.png"
+    },
+    {
+      "id": 11,
+      "from": "Comoros",
+      "to": "/img/km.png"
+    },
+    {
+      "id": 12,
+      "from": "Congo",
+      "to": "/img/cg.png"
+    },
+    {
+      "id": 13,
+      "from": "Djibouti",
+      "to": "/img/dj.png"
+    },
+    {
+      "id": 14,
+      "from": "Egypt",
+      "to": "/img/eg.png"
+    },
+    {
+      "id": 15,
+      "from": "Equatorial Guinea",
+      "to": "/img/gq.png"
+    },
+    {
+      "id": 16,
+      "from": "Eritrea",
+      "to": "/img/er.png"
+    },
+    {
+      "id": 17,
+      "from": "Eswatini",
+      "to": "/img/sz.png"
+    },
+    {
+      "id": 18,
+      "from": "Ethiopia",
+      "to": "/img/et.png"
+    },
+    {
+      "id": 19,
+      "from": "Gabon",
+      "to": "/img/ga.png"
+    },
+    {
+      "id": 20,
+      "from": "Gambia",
+      "to": "/img/gm.png"
+    },
+    {
+      "id": 21,
+      "from": "Ghana",
+      "to": "/img/gh.png"
+    },
+    {
+      "id": 22,
+      "from": "Guinea",
+      "to": "/img/gn.png"
+    },
+    {
+      "id": 23,
+      "from": "Guinea-Bissau",
+      "to": "/img/gw.png"
+    },
+    {
+      "id": 24,
+      "from": "Ivory Coast",
+      "to": "/img/ci.png"
+    },
+    {
+      "id": 25,
+      "from": "Kenya",
+      "to": "/img/ke.png"
+    },
+    {
+      "id": 26,
+      "from": "Lesotho",
+      "to": "/img/ls.png"
+    },
+    {
+      "id": 27,
+      "from": "Liberia",
+      "to": "/img/lr.png"
+    },
+    {
+      "id": 28,
+      "from": "Libya",
+      "to": "/img/ly.png"
+    },
+    {
+      "id": 29,
+      "from": "Madagascar",
+      "to": "/img/mg.png"
+    },
+    {
+      "id": 30,
+      "from": "Malawi",
+      "to": "/img/mw.png"
+    },
+    {
+      "id": 31,
+      "from": "Mali",
+      "to": "/img/ml.png"
+    },
+    {
+      "id": 32,
+      "from": "Mauritania",
+      "to": "/img/mr.png"
+    },
+    {
+      "id": 33,
+      "from": "Mauritius",
+      "to": "/img/mu.png"
+    },
+    {
+      "id": 34,
+      "from": "Mayotte",
+      "to": "/img/yt.png"
+    },
+    {
+      "id": 35,
+      "from": "Morocco",
+      "to": "/img/ma.png"
+    },
+    {
+      "id": 36,
+      "from": "Mozambique",
+      "to": "/img/mz.png"
+    },
+    {
+      "id": 37,
+      "from": "Namibia",
+      "to": "/img/na.png"
+    },
+    {
+      "id": 38,
+      "from": "Niger",
+      "to": "/img/ne.png"
+    },
+    {
+      "id": 39,
+      "from": "Nigeria",
+      "to": "/img/ng.png"
+    },
+    {
+      "id": 40,
+      "from": "Reunion",
+      "to": "/img/re.png"
+    },
+    {
+      "id": 41,
+      "from": "Rwanda",
+      "to": "/img/rw.png"
+    },
+    {
+      "id": 42,
+      "from": "Saint Helena",
+      "to": "/img/sh.png"
+    },
+    {
+      "id": 43,
+      "from": "Sao Tome and Principe",
+      "to": "/img/st.png"
+    },
+    {
+      "id": 44,
+      "from": "Senegal",
+      "to": "/img/sn.png"
+    },
+    {
+      "id": 45,
+      "from": "Seychelles",
+      "to": "/img/sc.png"
+    },
+    {
+      "id": 46,
+      "from": "Sierra Leone",
+      "to": "/img/sl.png"
+    },
+    {
+      "id": 47,
+      "from": "Somalia",
+      "to": "/img/so.png"
+    },
+    {
+      "id": 48,
+      "from": "South Africa",
+      "to": "/img/za.png"
+    },
+    {
+      "id": 49,
+      "from": "South Sudan",
+      "to": "/img/ss.png"
+    },
+    {
+      "id": 50,
+      "from": "Sudan",
+      "to": "/img/sd.png"
+    },
+    {
+      "id": 51,
+      "from": "Tanzania",
+      "to": "/img/tz.png"
+    },
+    {
+      "id": 52,
+      "from": "The Democratic Republic of Congo",
+      "to": "/img/cd.png"
+    },
+    {
+      "id": 53,
+      "from": "Togo",
+      "to": "/img/tg.png"
+    },
+    {
+      "id": 54,
+      "from": "Tunisia",
+      "to": "/img/tn.png"
+    },
+    {
+      "id": 55,
+      "from": "Uganda",
+      "to": "/img/ug.png"
+    },
+    {
+      "id": 56,
+      "from": "Western Sahara",
+      "to": "/img/eh.png"
+    },
+    {
+      "id": 57,
+      "from": "Zambia",
+      "to": "/img/zm.png"
+    },
+    {
+      "id": 58,
+      "from": "Zimbabwe",
+      "to": "/img/zw.png"
+    }
+  ]
+}

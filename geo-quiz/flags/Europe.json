@@ -1,0 +1,264 @@
+{
+  "Title": "Country Flags for Europe",
+  "DeckID": "8fd251d4-6106-4e75-905a-b0b53499c9a5",
+  "Description": "The set of countries with official flags. Europe continent.",
+  "FromType": "TEXT",
+  "ToType": "IMAGE",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Albania",
+      "to": "/img/al.png"
+    },
+    {
+      "id": 1,
+      "from": "Andorra",
+      "to": "/img/ad.png"
+    },
+    {
+      "id": 2,
+      "from": "Austria",
+      "to": "/img/at.png"
+    },
+    {
+      "id": 3,
+      "from": "Belarus",
+      "to": "/img/by.png"
+    },
+    {
+      "id": 4,
+      "from": "Belgium",
+      "to": "/img/be.png"
+    },
+    {
+      "id": 5,
+      "from": "Bosnia and Herzegovina",
+      "to": "/img/ba.png"
+    },
+    {
+      "id": 6,
+      "from": "Bulgaria",
+      "to": "/img/bg.png"
+    },
+    {
+      "id": 7,
+      "from": "Croatia",
+      "to": "/img/hr.png"
+    },
+    {
+      "id": 8,
+      "from": "Czech Republic",
+      "to": "/img/cz.png"
+    },
+    {
+      "id": 9,
+      "from": "Denmark",
+      "to": "/img/dk.png"
+    },
+    {
+      "id": 10,
+      "from": "England",
+      "to": "/img/undefined.png"
+    },
+    {
+      "id": 11,
+      "from": "Estonia",
+      "to": "/img/ee.png"
+    },
+    {
+      "id": 12,
+      "from": "Faroe Islands",
+      "to": "/img/fo.png"
+    },
+    {
+      "id": 13,
+      "from": "Finland",
+      "to": "/img/fi.png"
+    },
+    {
+      "id": 14,
+      "from": "France",
+      "to": "/img/fr.png"
+    },
+    {
+      "id": 15,
+      "from": "Germany",
+      "to": "/img/de.png"
+    },
+    {
+      "id": 16,
+      "from": "Gibraltar",
+      "to": "/img/gi.png"
+    },
+    {
+      "id": 17,
+      "from": "Greece",
+      "to": "/img/gr.png"
+    },
+    {
+      "id": 18,
+      "from": "Holy See (Vatican City State)",
+      "to": "/img/va.png"
+    },
+    {
+      "id": 19,
+      "from": "Hungary",
+      "to": "/img/hu.png"
+    },
+    {
+      "id": 20,
+      "from": "Iceland",
+      "to": "/img/is.png"
+    },
+    {
+      "id": 21,
+      "from": "Ireland",
+      "to": "/img/ie.png"
+    },
+    {
+      "id": 22,
+      "from": "Italy",
+      "to": "/img/it.png"
+    },
+    {
+      "id": 23,
+      "from": "Latvia",
+      "to": "/img/lv.png"
+    },
+    {
+      "id": 24,
+      "from": "Liechtenstein",
+      "to": "/img/li.png"
+    },
+    {
+      "id": 25,
+      "from": "Lithuania",
+      "to": "/img/lt.png"
+    },
+    {
+      "id": 26,
+      "from": "Luxembourg",
+      "to": "/img/lu.png"
+    },
+    {
+      "id": 27,
+      "from": "North Macedonia",
+      "to": "/img/mk.png"
+    },
+    {
+      "id": 28,
+      "from": "Malta",
+      "to": "/img/mt.png"
+    },
+    {
+      "id": 29,
+      "from": "Moldova",
+      "to": "/img/md.png"
+    },
+    {
+      "id": 30,
+      "from": "Monaco",
+      "to": "/img/mc.png"
+    },
+    {
+      "id": 31,
+      "from": "Montenegro",
+      "to": "/img/me.png"
+    },
+    {
+      "id": 32,
+      "from": "Netherlands",
+      "to": "/img/nl.png"
+    },
+    {
+      "id": 33,
+      "from": "Northern Ireland",
+      "to": "/img/gb.png"
+    },
+    {
+      "id": 34,
+      "from": "Norway",
+      "to": "/img/no.png"
+    },
+    {
+      "id": 35,
+      "from": "Poland",
+      "to": "/img/pl.png"
+    },
+    {
+      "id": 36,
+      "from": "Portugal",
+      "to": "/img/pt.png"
+    },
+    {
+      "id": 37,
+      "from": "Romania",
+      "to": "/img/ro.png"
+    },
+    {
+      "id": 38,
+      "from": "Russia",
+      "to": "/img/ru.png"
+    },
+    {
+      "id": 39,
+      "from": "San Marino",
+      "to": "/img/sm.png"
+    },
+    {
+      "id": 40,
+      "from": "Scotland",
+      "to": "/img/undefined.png"
+    },
+    {
+      "id": 41,
+      "from": "Serbia",
+      "to": "/img/rs.png"
+    },
+    {
+      "id": 42,
+      "from": "Slovakia",
+      "to": "/img/sk.png"
+    },
+    {
+      "id": 43,
+      "from": "Slovenia",
+      "to": "/img/si.png"
+    },
+    {
+      "id": 44,
+      "from": "Spain",
+      "to": "/img/es.png"
+    },
+    {
+      "id": 45,
+      "from": "Svalbard and Jan Mayen",
+      "to": "/img/sj.png"
+    },
+    {
+      "id": 46,
+      "from": "Sweden",
+      "to": "/img/se.png"
+    },
+    {
+      "id": 47,
+      "from": "Switzerland",
+      "to": "/img/ch.png"
+    },
+    {
+      "id": 48,
+      "from": "Ukraine",
+      "to": "/img/ua.png"
+    },
+    {
+      "id": 49,
+      "from": "United Kingdom",
+      "to": "/img/uk.png"
+    },
+    {
+      "id": 50,
+      "from": "Wales",
+      "to": "/img/undefined.png"
+    }
+  ]
+}

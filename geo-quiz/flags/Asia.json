@@ -1,0 +1,259 @@
+{
+  "Title": "Country Flags for Asia",
+  "DeckID": "a094b03a-4121-4784-9105-98d541b41189",
+  "Description": "The set of countries with official flags. Asia continent.",
+  "FromType": "TEXT",
+  "ToType": "IMAGE",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Afghanistan",
+      "to": "/img/af.png"
+    },
+    {
+      "id": 1,
+      "from": "Armenia",
+      "to": "/img/am.png"
+    },
+    {
+      "id": 2,
+      "from": "Azerbaijan",
+      "to": "/img/az.png"
+    },
+    {
+      "id": 3,
+      "from": "Bahrain",
+      "to": "/img/bh.png"
+    },
+    {
+      "id": 4,
+      "from": "Bangladesh",
+      "to": "/img/bd.png"
+    },
+    {
+      "id": 5,
+      "from": "Bhutan",
+      "to": "/img/bt.png"
+    },
+    {
+      "id": 6,
+      "from": "Brunei",
+      "to": "/img/bn.png"
+    },
+    {
+      "id": 7,
+      "from": "Cambodia",
+      "to": "/img/kh.png"
+    },
+    {
+      "id": 8,
+      "from": "China",
+      "to": "/img/cn.png"
+    },
+    {
+      "id": 9,
+      "from": "Cyprus",
+      "to": "/img/cy.png"
+    },
+    {
+      "id": 10,
+      "from": "East Timor",
+      "to": "/img/tp.png"
+    },
+    {
+      "id": 11,
+      "from": "Georgia",
+      "to": "/img/ge.png"
+    },
+    {
+      "id": 12,
+      "from": "Hong Kong",
+      "to": "/img/hk.png"
+    },
+    {
+      "id": 13,
+      "from": "India",
+      "to": "/img/in.png"
+    },
+    {
+      "id": 14,
+      "from": "Indonesia",
+      "to": "/img/id.png"
+    },
+    {
+      "id": 15,
+      "from": "Iran",
+      "to": "/img/ir.png"
+    },
+    {
+      "id": 16,
+      "from": "Iraq",
+      "to": "/img/iq.png"
+    },
+    {
+      "id": 17,
+      "from": "Israel",
+      "to": "/img/il.png"
+    },
+    {
+      "id": 18,
+      "from": "Japan",
+      "to": "/img/jp.png"
+    },
+    {
+      "id": 19,
+      "from": "Jordan",
+      "to": "/img/jo.png"
+    },
+    {
+      "id": 20,
+      "from": "Kazakhstan",
+      "to": "/img/kz.png"
+    },
+    {
+      "id": 21,
+      "from": "Kuwait",
+      "to": "/img/kw.png"
+    },
+    {
+      "id": 22,
+      "from": "Kyrgyzstan",
+      "to": "/img/kg.png"
+    },
+    {
+      "id": 23,
+      "from": "Laos",
+      "to": "/img/la.png"
+    },
+    {
+      "id": 24,
+      "from": "Lebanon",
+      "to": "/img/lb.png"
+    },
+    {
+      "id": 25,
+      "from": "Macao",
+      "to": "/img/mo.png"
+    },
+    {
+      "id": 26,
+      "from": "Malaysia",
+      "to": "/img/my.png"
+    },
+    {
+      "id": 27,
+      "from": "Maldives",
+      "to": "/img/mv.png"
+    },
+    {
+      "id": 28,
+      "from": "Mongolia",
+      "to": "/img/mn.png"
+    },
+    {
+      "id": 29,
+      "from": "Myanmar",
+      "to": "/img/mm.png"
+    },
+    {
+      "id": 30,
+      "from": "Nepal",
+      "to": "/img/np.png"
+    },
+    {
+      "id": 31,
+      "from": "North Korea",
+      "to": "/img/kp.png"
+    },
+    {
+      "id": 32,
+      "from": "Oman",
+      "to": "/img/om.png"
+    },
+    {
+      "id": 33,
+      "from": "Pakistan",
+      "to": "/img/pk.png"
+    },
+    {
+      "id": 34,
+      "from": "Palestine",
+      "to": "/img/ps.png"
+    },
+    {
+      "id": 35,
+      "from": "Philippines",
+      "to": "/img/ph.png"
+    },
+    {
+      "id": 36,
+      "from": "Qatar",
+      "to": "/img/qa.png"
+    },
+    {
+      "id": 37,
+      "from": "Saudi Arabia",
+      "to": "/img/sa.png"
+    },
+    {
+      "id": 38,
+      "from": "Singapore",
+      "to": "/img/sg.png"
+    },
+    {
+      "id": 39,
+      "from": "South Korea",
+      "to": "/img/kr.png"
+    },
+    {
+      "id": 40,
+      "from": "Sri Lanka",
+      "to": "/img/lk.png"
+    },
+    {
+      "id": 41,
+      "from": "Syria",
+      "to": "/img/sy.png"
+    },
+    {
+      "id": 42,
+      "from": "Tajikistan",
+      "to": "/img/tj.png"
+    },
+    {
+      "id": 43,
+      "from": "Thailand",
+      "to": "/img/th.png"
+    },
+    {
+      "id": 44,
+      "from": "Turkey",
+      "to": "/img/tr.png"
+    },
+    {
+      "id": 45,
+      "from": "Turkmenistan",
+      "to": "/img/tm.png"
+    },
+    {
+      "id": 46,
+      "from": "United Arab Emirates",
+      "to": "/img/ae.png"
+    },
+    {
+      "id": 47,
+      "from": "Uzbekistan",
+      "to": "/img/uz.png"
+    },
+    {
+      "id": 48,
+      "from": "Vietnam",
+      "to": "/img/vn.png"
+    },
+    {
+      "id": 49,
+      "from": "Yemen",
+      "to": "/img/ye.png"
+    }
+  ]
+}

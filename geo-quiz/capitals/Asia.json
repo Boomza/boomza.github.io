@@ -1,0 +1,259 @@
+{
+  "Title": "Country Capitals for Asia",
+  "DeckID": "633942db-bbf4-41fc-bf87-c7640b480813",
+  "Description": "The set of countries with official capitals. Asia continent.",
+  "FromType": "TEXT",
+  "ToType": "TEXT",
+  "Items": [
+    {
+      "id": 0,
+      "from": "Afghanistan",
+      "to": "Kabul"
+    },
+    {
+      "id": 1,
+      "from": "Armenia",
+      "to": "Yerevan"
+    },
+    {
+      "id": 2,
+      "from": "Azerbaijan",
+      "to": "Baku"
+    },
+    {
+      "id": 3,
+      "from": "Bahrain",
+      "to": "al-Manama"
+    },
+    {
+      "id": 4,
+      "from": "Bangladesh",
+      "to": "Dhaka"
+    },
+    {
+      "id": 5,
+      "from": "Bhutan",
+      "to": "Thimphu"
+    },
+    {
+      "id": 6,
+      "from": "Brunei",
+      "to": "Bandar Seri Begawan"
+    },
+    {
+      "id": 7,
+      "from": "Cambodia",
+      "to": "Phnom Penh"
+    },
+    {
+      "id": 8,
+      "from": "China",
+      "to": "Peking"
+    },
+    {
+      "id": 9,
+      "from": "Cyprus",
+      "to": "Nicosia"
+    },
+    {
+      "id": 10,
+      "from": "East Timor",
+      "to": "Dili"
+    },
+    {
+      "id": 11,
+      "from": "Georgia",
+      "to": "Tbilisi"
+    },
+    {
+      "id": 12,
+      "from": "Hong Kong",
+      "to": "Victoria"
+    },
+    {
+      "id": 13,
+      "from": "India",
+      "to": "New Delhi"
+    },
+    {
+      "id": 14,
+      "from": "Indonesia",
+      "to": "Jakarta"
+    },
+    {
+      "id": 15,
+      "from": "Iran",
+      "to": "Tehran"
+    },
+    {
+      "id": 16,
+      "from": "Iraq",
+      "to": "Baghdad"
+    },
+    {
+      "id": 17,
+      "from": "Israel",
+      "to": "Jerusalem"
+    },
+    {
+      "id": 18,
+      "from": "Japan",
+      "to": "Tokyo"
+    },
+    {
+      "id": 19,
+      "from": "Jordan",
+      "to": "Amman"
+    },
+    {
+      "id": 20,
+      "from": "Kazakhstan",
+      "to": "Astana"
+    },
+    {
+      "id": 21,
+      "from": "Kuwait",
+      "to": "Kuwait"
+    },
+    {
+      "id": 22,
+      "from": "Kyrgyzstan",
+      "to": "Bishkek"
+    },
+    {
+      "id": 23,
+      "from": "Laos",
+      "to": "Vientiane"
+    },
+    {
+      "id": 24,
+      "from": "Lebanon",
+      "to": "Beirut"
+    },
+    {
+      "id": 25,
+      "from": "Macao",
+      "to": "Macao"
+    },
+    {
+      "id": 26,
+      "from": "Malaysia",
+      "to": "Kuala Lumpur"
+    },
+    {
+      "id": 27,
+      "from": "Maldives",
+      "to": "Male"
+    },
+    {
+      "id": 28,
+      "from": "Mongolia",
+      "to": "Ulan Bator"
+    },
+    {
+      "id": 29,
+      "from": "Myanmar",
+      "to": "Rangoon (Yangon)"
+    },
+    {
+      "id": 30,
+      "from": "Nepal",
+      "to": "Kathmandu"
+    },
+    {
+      "id": 31,
+      "from": "North Korea",
+      "to": "Pyongyang"
+    },
+    {
+      "id": 32,
+      "from": "Oman",
+      "to": "Masqat"
+    },
+    {
+      "id": 33,
+      "from": "Pakistan",
+      "to": "Islamabad"
+    },
+    {
+      "id": 34,
+      "from": "Palestine",
+      "to": "Gaza"
+    },
+    {
+      "id": 35,
+      "from": "Philippines",
+      "to": "Manila"
+    },
+    {
+      "id": 36,
+      "from": "Qatar",
+      "to": "Doha"
+    },
+    {
+      "id": 37,
+      "from": "Saudi Arabia",
+      "to": "Riyadh"
+    },
+    {
+      "id": 38,
+      "from": "Singapore",
+      "to": "Singapore"
+    },
+    {
+      "id": 39,
+      "from": "South Korea",
+      "to": "Seoul"
+    },
+    {
+      "id": 40,
+      "from": "Sri Lanka",
+      "to": "Colombo, Sri Jayawardenepura Kotte"
+    },
+    {
+      "id": 41,
+      "from": "Syria",
+      "to": "Damascus"
+    },
+    {
+      "id": 42,
+      "from": "Tajikistan",
+      "to": "Dushanbe"
+    },
+    {
+      "id": 43,
+      "from": "Thailand",
+      "to": "Bangkok"
+    },
+    {
+      "id": 44,
+      "from": "Turkey",
+      "to": "Ankara"
+    },
+    {
+      "id": 45,
+      "from": "Turkmenistan",
+      "to": "Ashgabat"
+    },
+    {
+      "id": 46,
+      "from": "United Arab Emirates",
+      "to": "Abu Dhabi"
+    },
+    {
+      "id": 47,
+      "from": "Uzbekistan",
+      "to": "Toskent"
+    },
+    {
+      "id": 48,
+      "from": "Vietnam",
+      "to": "Hanoi"
+    },
+    {
+      "id": 49,
+      "from": "Yemen",
+      "to": "Sanaa"
+    }
+  ]
+}

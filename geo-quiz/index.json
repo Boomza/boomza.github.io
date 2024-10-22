@@ -4,42 +4,42 @@
     "Prefix": "/geo-quiz/capitals",
     "Decks": [
       {
-        "Title": "Country Capitals for Africa",
+        "Title": "Africa",
         "DeckID": "b8079738-184c-4da8-ac8d-822060857777",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Africa.json",
         "Image": "/img/Africa.png"
       },
       {
-        "Title": "Country Capitals for Asia",
+        "Title": "Asia",
         "DeckID": "633942db-bbf4-41fc-bf87-c7640b480813",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Asia.json",
         "Image": "/img/Asia.png"
       },
       {
-        "Title": "Country Capitals for Europe",
+        "Title": "Europe",
         "DeckID": "2a1c643a-81ec-4ba2-a13b-b12e5c54259d",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Europe.json",
         "Image": "/img/Europe.png"
       },
       {
-        "Title": "Country Capitals for North America",
+        "Title": "North America",
         "DeckID": "14a432d7-a2cb-4e96-a5e8-62f97162d67c",
         "Description": "This stack is dedicated to capitals.",
         "File": "/NorthAmerica.json",
         "Image": "/img/NorthAmerica.png"
       },
       {
-        "Title": "Country Capitals for Oceania",
+        "Title": "Oceania",
         "DeckID": "5cb8727f-bc8a-4669-af71-ef58ec2a0463",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Oceania.json",
         "Image": "/img/Oceania.png"
       },
       {
-        "Title": "Country Capitals for South America",
+        "Title": "South America",
         "DeckID": "c458265a-40cf-4cc8-8b3a-4c6ebcc4bf1a",
         "Description": "This stack is dedicated to capitals.",
         "File": "/SouthAmerica.json",
@@ -52,42 +52,42 @@
     "Prefix": "/geo-quiz/flags",
     "Decks": [
       {
-        "Title": "Country Flags for Africa",
+        "Title": "Africa",
         "DeckID": "d63d53a1-0197-430b-b692-7d616542c5ac",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Africa.json",
         "Image": "/img/Africa.png"
       },
       {
-        "Title": "Country Flags for Asia",
+        "Title": "Asia",
         "DeckID": "a094b03a-4121-4784-9105-98d541b41189",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Asia.json",
         "Image": "/img/Asia.png"
       },
       {
-        "Title": "Country Flags for Europe",
+        "Title": "Europe",
         "DeckID": "8fd251d4-6106-4e75-905a-b0b53499c9a5",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Europe.json",
         "Image": "/img/Europe.png"
       },
       {
-        "Title": "Country Flags for North America",
+        "Title": "North America",
         "DeckID": "325eb03f-6840-47d2-9010-f305ddbaa6d0",
         "Description": "This stack is dedicated to capitals.",
         "File": "/NorthAmerica.json",
         "Image": "/img/NorthAmerica.png"
       },
       {
-        "Title": "Country Flags for Oceania",
+        "Title": "Oceania",
         "DeckID": "46c71b8a-e993-4431-82e4-813464132c10",
         "Description": "This stack is dedicated to capitals.",
         "File": "/Oceania.json",
         "Image": "/img/Oceania.png"
       },
       {
-        "Title": "Country Flags for South America",
+        "Title": "South America",
         "DeckID": "99cefc4b-7ade-412d-b787-9baae68a6819",
         "Description": "This stack is dedicated to capitals.",
         "File": "/SouthAmerica.json",

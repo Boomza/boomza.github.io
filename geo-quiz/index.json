@@ -1,7 +1,7 @@
 {
   "Capitals": {
     "Description": "Geography knowledge can help us understand the diversity and interconnection of the world's regions, cultures, and resources. Some aspects of geography knowledge include: <ul><li>Capitals</li><li>Locations</li><li>Flags</li></ul>",
-    "Prefix": "/geo-quiz/capitals",
+    "Prefix": "/capitals",
     "Image": "/img/capital.png",
     "Decks": [
       {
@@ -50,7 +50,7 @@
   },
   "Flags": {
     "Description": "One of the benefits of studying a foreign language is that it can help you expand your vocabulary. By learning new words and expressions in another language, you can also improve your understanding of your own language and how it works. Additionally, having a rich vocabulary can help you communicate more effectively and confidently with native speakers and other learners of the language. A larger vocabulary can also enhance your reading comprehension and writing skills in both languages.",
-    "Prefix": "/geo-quiz/flags",
+    "Prefix": "/flags",
     "Image": "/img/flag.png",
     "Decks": [
       {

@@ -54,42 +54,42 @@
       {
         "Title": "Africa",
         "DeckID": "d63d53a1-0197-430b-b692-7d616542c5ac",
-        "Description": "This stack is dedicated to capitals.",
+        "Description": "This stack is dedicated to Africa continent flags.",
         "File": "/Africa.json",
         "Image": "/img/Africa.png"
       },
       {
         "Title": "Asia",
         "DeckID": "a094b03a-4121-4784-9105-98d541b41189",
-        "Description": "This stack is dedicated to capitals.",
+        "Description": "This stack is dedicated to Asia continent flags.",
         "File": "/Asia.json",
         "Image": "/img/Asia.png"
       },
       {
         "Title": "Europe",
         "DeckID": "8fd251d4-6106-4e75-905a-b0b53499c9a5",
-        "Description": "This stack is dedicated to capitals.",
+        "Description": "This stack is dedicated to Europa flags flags.",
         "File": "/Europe.json",
         "Image": "/img/Europe.png"
       },
       {
         "Title": "North America",
         "DeckID": "325eb03f-6840-47d2-9010-f305ddbaa6d0",
-        "Description": "This stack is dedicated to capitals.",
+        "Description": "This stack is dedicated to North America flags.",
         "File": "/NorthAmerica.json",
         "Image": "/img/NorthAmerica.png"
       },
       {
         "Title": "Oceania",
         "DeckID": "46c71b8a-e993-4431-82e4-813464132c10",
-        "Description": "This stack is dedicated to capitals.",
+        "Description": "This stack is dedicated to Oceania flags.",
         "File": "/Oceania.json",
         "Image": "/img/Oceania.png"
       },
       {
         "Title": "South America",
         "DeckID": "99cefc4b-7ade-412d-b787-9baae68a6819",
-        "Description": "This stack is dedicated to capitals.",
+        "Description": "This stack is dedicated to South America flags.",
         "File": "/SouthAmerica.json",
         "Image": "/img/SouthAmerica.png"
       }

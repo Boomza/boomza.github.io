@@ -10,5 +10,17 @@
         "41:03:1D:2A:03:A6:F0:C3:74:7D:06:76:8C:FD:86:7A:0F:3A:98:6A:ED:F6:03:F3:12:59:69:72:31:21:DB:D0"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "geography.quiz.boomza",
+      "sha256_cert_fingerprints": [
+        "66:A0:10:16:7E:0E:57:18:5D:90:FF:45:D5:03:F8:56:62:25:2A:BD:A9:BE:11:53:2F:59:60:E5:C9:4D:B0:A2"
+      ]
+    }
   }
 ]

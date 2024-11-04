@@ -173,7 +173,7 @@
     {
       "id": 33,
       "from": "Northern Ireland",
-      "to": "/img/gb.png"
+      "to": "/img/gb-nir.png"
     },
     {
       "id": 34,
@@ -253,7 +253,7 @@
     {
       "id": 49,
       "from": "United Kingdom",
-      "to": "/img/uk.png"
+      "to": "/img/gb.png"
     },
     {
       "id": 50,
